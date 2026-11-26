@@ -1,0 +1,5 @@
+{
+    "name": "AsepriteTilemapEditor.Editor",
+    "rootNamespace": "AsepriteTilemapEditor",
+    "includePlatforms": ["Editor"]
+}

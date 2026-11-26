@@ -1,0 +1,13 @@
+{
+  "name": "com.ash2ops.aseprite-tilemap-editor",
+  "version": "1.3.0",
+  "displayName": "Aseprite Tilemap Editor",
+  "description": "Import native Aseprite tilemap exports into linked Unity Tilemap prefabs.",
+  "license": "MIT",
+  "documentationUrl": "https://github.com/Ash2oPS/aseprite-tilemap-editor#readme",
+  "unity": "6000.3",
+  "dependencies": {
+    "com.unity.modules.tilemap": "1.0.0",
+    "com.unity.modules.physics2d": "1.0.0"
+  }
+}

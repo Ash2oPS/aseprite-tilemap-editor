@@ -1,0 +1,14 @@
+{
+  "name": "aseprite-tilemap-editor",
+  "publisher": "ash2ops",
+  "version": "1.3.0",
+  "menuTitle": "Tilemap Editor",
+  "commandPrefix": "AsepriteTilemap",
+  "updateFolder": "AsepriteTilemapUpdates",
+  "archiveStem": "AsepriteTilemapEditor",
+  "planGroup": "Map",
+  "tilesetName": "Minimal tiles",
+  "layers": ["Ground", "Details"],
+  "defaultBrush": "grass",
+  "defaultCategory": "All"
+}
