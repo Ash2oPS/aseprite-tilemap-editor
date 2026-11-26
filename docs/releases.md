@@ -11,7 +11,8 @@ The public Aseprite extension and the Unity package share one version. Custom br
 
 ```sh
 git tag -a v1.3.0
-git push origin main refs/tags/v1.3.0
+git push origin main
+git push origin refs/tags/v1.3.0
 ```
 
 ## Publish the draft
